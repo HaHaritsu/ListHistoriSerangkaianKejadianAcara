@@ -80,6 +80,7 @@ List untuk histori dan list untuk daftar menu
 <img width="429" height="180" alt="image" src="https://github.com/user-attachments/assets/c6365cc0-be93-4332-8008-c04965c166ec" />
 
 While untuk looping dan fungsi untuk menampilkan daftar menu
+
 <img width="426" height="100" alt="image" src="https://github.com/user-attachments/assets/07ccfc56-c981-4ceb-b186-731cadcc8f8b" />
 
 Opsi untuk mematikan loop untuk menghentikan program
