@@ -60,6 +60,9 @@ Harits, 2509116048, SistemInformasiB
 
    <img width="246" height="356" alt="{EA61DC85-A2D6-4CDD-AD9F-F7C0A2624B6B}" src="https://github.com/user-attachments/assets/ce017076-5a89-4877-865d-150523c2a9cb" />
 
+   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   
+
    <img width="379" height="199" alt="{04A97355-DA6A-447F-9E50-36FAB197A0A2}" src="https://github.com/user-attachments/assets/2da98a03-ce58-4c8b-9099-ef754ef49774" />
    
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -91,7 +94,17 @@ Harits, 2509116048, SistemInformasiB
 
    <img width="356" height="44" alt="{DE15DE72-CB39-4CB5-B68E-402697A6958D}" src="https://github.com/user-attachments/assets/210254ba-ce0c-4b76-8667-fb99447fef63" />
 
+   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   
+
+   <img width="175" height="106" alt="{64738E57-62E5-46EE-93C6-E15ACA010B50}" src="https://github.com/user-attachments/assets/ef21438a-69fd-4403-9571-8cede2e1bdd1" />
+
+
 
 **E. Hasil Output (User Role)**
 
-**F. Penjelasan Kode (User Role)**
+   <img width="229" height="310" alt="{C478B876-035B-4397-AA31-2DFEDD2EDF68}" src="https://github.com/user-attachments/assets/8a624a89-125e-400f-a2c7-5f7a6ea39419" />
+
+   <img width="409" height="256" alt="{A67C5A20-1C0F-494D-AD7D-F41D08DD7B99}" src="https://github.com/user-attachments/assets/d3bcecd0-e424-4fa0-9ae4-c80dabaa7cdb" />
+
+   <img width="175" height="106" alt="{64738E57-62E5-46EE-93C6-E15ACA010B50}" src="https://github.com/user-attachments/assets/ac0b7a2d-7481-467b-a12e-ad76f665dc0a" />
