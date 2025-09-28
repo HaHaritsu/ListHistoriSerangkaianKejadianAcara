@@ -3,7 +3,7 @@ Harits, 2509116048, SistemInformasiB
 
 **A. Flowchart**
 
-1. Flowchart (Admin Role):\n
+1. Flowchart (Admin Role):
 
 <img width="809" height="1111" alt="MinPro-Page-1 drawio" src="https://github.com/user-attachments/assets/73669ce0-443f-4cc0-861d-c7285c4cc48d" />
 
@@ -14,20 +14,33 @@ Harits, 2509116048, SistemInformasiB
 **B. Penjelasan Kode**
 
 1. List/Dictionary
+
    <img width="842" height="370" alt="image" src="https://github.com/user-attachments/assets/44461f60-a107-421b-9cd3-51cda58d7973" />
    berisi list/dictionary yang akan digunakan
    
 3. def login
 
+
+
 4. def view()
+
+
 
 5. def add()
 
+
+
 6. def update()
+
+
 
 7. def remove()
 
+
+
 8. menu
+
+
 
 
 **C. ERROR Handling (Beserta Output)**
