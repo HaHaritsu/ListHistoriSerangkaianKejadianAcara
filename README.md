@@ -3,12 +3,16 @@ Harits, 2509116048, SistemInformasiB
 
 **A. Flowchart**
 
-1. Flowchart:
+1. Flowchart (Admin Role):
 
-<img width="791" height="911" alt="Flowchart" src="https://github.com/user-attachments/assets/02eafd9a-9fd1-4889-8e93-09c696e9b97c" />
+<img width="809" height="1111" alt="MinPro-Page-1 drawio" src="https://github.com/user-attachments/assets/73669ce0-443f-4cc0-861d-c7285c4cc48d" />
+
+2. Flowchart (User Role):
+
+<img width="621" height="611" alt="MinPro-Page-2 drawio" src="https://github.com/user-attachments/assets/bdf467e6-8ed3-471e-b5a1-3ac680cbbbb1" />
 
 
-**B. Hasil Output**
+**B. Hasil Output (Admin Role)**
 
 2. Terminal(Main Menu)
 
@@ -67,7 +71,7 @@ Harits, 2509116048, SistemInformasiB
 <img width="196" height="16" alt="image" src="https://github.com/user-attachments/assets/90e745cc-cd66-4547-9d40-4cfc430e998c" />
 
 
-**C. Penjelasan Kode**
+**C. Penjelasan Kode (Admin Role)**
 
 <img width="501" height="144" alt="image" src="https://github.com/user-attachments/assets/f00e1e42-90bd-4c12-965d-527ef8bc7e9c" />
 
@@ -104,3 +108,7 @@ Fungsi untuk mengubah data dengan cara memilih tahun terlebih dahulu lalu memili
 <img width="938" height="694" alt="image" src="https://github.com/user-attachments/assets/03015e47-dd59-4c42-8ad7-70f4834071fc" />
 
 Fungsi untuk menghapus data dengan cara memilih tahun terlebih dahulu lalu memilih nama kejadian/acara yang ingin dihapus
+
+**D. Hasil Output (User Role)**
+
+**E. Penjelasan Kode (User Role)**
