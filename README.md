@@ -21,26 +21,30 @@ Harits, 2509116048, SistemInformasiB
 3. def login
 
 
+   fuction untuk login
 
 4. def view()
 
 
+   fuction untuk melihat data
 
 5. def add()
 
 
+   fuction untuk menambah data
 
 6. def update()
 
-
+   fuction untuk mengubah data
 
 7. def remove()
 
 
+   fuction untuk menghapus data
 
 8. menu
 
-
+   kode untuk menu
 
 
 **C. ERROR Handling (Beserta Output)**
